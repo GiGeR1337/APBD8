@@ -1,0 +1,6 @@
+@apbd8_HostAddress = http://localhost:5070
+
+GET {{apbd8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
